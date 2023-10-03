@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KC-ai, Kash Challapalli
-- 👀 I’m interested in finance and technology
-- 🌱 I’m currently learning data science through python and the complexities of C++ and its applications
-- 💞️ I’m looking to collaborate on any sort of finance/ data science project
-- 📫 How to reach me: Email - kash21cash@gmail.com
+- 👀 I’m interested in innovation within technology, particularly the theoretical side of computer science as well as how we can leverage technology in order to help people and transform the educational space. 
+- 📫 How to reach me: Email - kach4276@colorado.edu
 
 <!---
 KC-ai/KC-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
